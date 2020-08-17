@@ -2,6 +2,6 @@
 #include <curl/curl.h>
 int main(){
   curl_global_init(CURL_GLOBAL_ALL);
-  printf("haha I'm a dummy\n");
+  printf("test dev pull\n");
   return 0;
 }
